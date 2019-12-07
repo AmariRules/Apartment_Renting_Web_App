@@ -7,13 +7,12 @@
 ####################################
 import mysql.connector
 
-conn = mysql.connector.connect(host="",
-                               database='',
-                               user='',
-                               password='',
+conn = mysql.connector.connect(host="june25-restoredfrom-restoreddb-csc648.covsgblvixwf.us-east-2.rds.amazonaws.com",
+                               database='CSC648',
+                               user='root',
+                               password='root1234',
                                auth_plugin='mysql_native_password')
 cursor = conn.cursor()
-
 #
 # conn = mysql.connector.connect(host = "localhost",
 #                             database = 'CSC648',
