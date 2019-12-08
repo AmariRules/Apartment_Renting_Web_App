@@ -8,9 +8,9 @@
 import mysql.connector
 
 conn = mysql.connector.connect(host="june25-restoredfrom-restoreddb-csc648.covsgblvixwf.us-east-2.rds.amazonaws.com",
-                               database='CSC648',
-                               user='root',
-                               password='root1234',
+                               database='',
+                               user='',
+                               password='',
                                auth_plugin='mysql_native_password')
 cursor = conn.cursor()
 #
