@@ -7,18 +7,23 @@
 
 Check out our Rental Application [Live Gator](http://18.188.139.47/)
 
-![Image of Site](https://imgur.com/E2o7SV0)
+![Image of Site](https://i.ibb.co/QjXyZRs/Screen-Shot-2020-03-10-at-6-32-52-PM.png)
 
 
 ### Collaboration
-
-This website was made in collaboartion with :
-Sushil Plassar
-Kurtis Hoang
-Yangyifan Wang
-Brian Ho
-Simon Tan
-Adeel Bhatti
+ This website was made in collaboartion with :
+ 
+ Sushil Plassar
+ 
+ Kurtis Hoang
+ 
+ Yangyifan Wang
+ 
+ Brian Ho
+ 
+ Simon Tan
+ 
+ Adeel Bhatti
 
 
 
