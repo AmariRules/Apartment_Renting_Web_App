@@ -1,4 +1,57 @@
-Running instructions:
+# Live Gator website
+
+
+### Web application that allows users to post rental information, and send messages to listers of the post. 
+
+#### Application's purpose is to show SFSU students distance from the rental property to San Francisco State university and give modes of transportation information to the user. 
+
+Check out our Rental Application [Live Gator](http://18.188.139.47/)
+
+
+### Collaboration
+
+This website was made in collaboartion with :
+Sushil Plassar
+Kurtis Hoang
+Yangyifan Wang
+Brian Ho
+Simon Tan
+Adeel Bhatti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Running instructions to complie website on local host:
 
 1. Clone the project, and use pycharm to open "Apartment_Renting_App" folder
 2. Click "Configure Python Interpreter" on top right corner on app.py file
