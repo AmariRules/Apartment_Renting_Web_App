@@ -7,6 +7,8 @@
 
 Check out our Rental Application [Live Gator](http://18.188.139.47/)
 
+![Image of Site](https://imgur.com/E2o7SV0)
+
 
 ### Collaboration
 
