@@ -1,7 +1,7 @@
 aniso8601==6.0.0
 Click==7.0
 CouchDB==1.2
-Flask==1.0.2
+Flask==2.3.2
 Flask-CouchDB==0.2.1
 Flask-Login==0.2.7
 Flask-MySQL==1.4.0
